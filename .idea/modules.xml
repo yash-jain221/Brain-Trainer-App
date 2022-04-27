@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Brain_Trainer.iml" filepath="$PROJECT_DIR$/Brain_Trainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Brain_Trainer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Brain_Trainer.app.iml" />
+    </modules>
+  </component>
+</project>
